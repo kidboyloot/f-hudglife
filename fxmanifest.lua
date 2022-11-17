@@ -2,7 +2,7 @@ fx_version 'adamant'
 games { 'gta5' };
 lua54 'yes'
 
-name 'MORGADO HUD'
+name ''
 
 ui_page 'html/ui.html'
 
